@@ -1,5 +1,8 @@
 RENCANA BELAJAR
 
 - Javascript
+  # Angular
+  # React
 - PHP Framework
+  # Laravel
 - Python
