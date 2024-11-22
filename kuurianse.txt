@@ -1,8 +1,9 @@
 RENCANA BELAJAR
 
 - Javascript
-  # Vue
   # React
+  # Angular
+  # Vue
 - PHP Framework
   # Laravel
 - Python
